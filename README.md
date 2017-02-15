@@ -7,7 +7,7 @@ Este repositorio sirve a los alumnos para que colaboren en sus ramas con las dif
 - C
 - Python
 
-# Modo de coopearación
+# Modo de cooperación
 
 1. Hacerse una cuenta de Github.
 2. Crear una rama de este proyecto.
