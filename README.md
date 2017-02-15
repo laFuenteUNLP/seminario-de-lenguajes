@@ -4,6 +4,7 @@ Este repositorio sirve a los alumnos para que colaboren en sus ramas con las dif
 - .net
 - Android
 - PHP
+- C
 - Python
 
 # Modo de coopearación
