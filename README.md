@@ -17,4 +17,4 @@ Este repositorio sirve a los alumnos para que colaboren en sus ramas con las dif
 
 Tener en cuenta crear códigos con buenas prácticas de programación y comentado para el entendimiento rápido y sencillo de todos y todas.
 
-***La Fuente - Conducción del CEFI***
+***La Fuente - Centro de Estudiantes de la Facultad de Informática***
