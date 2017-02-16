@@ -1,7 +1,7 @@
 # Seminario de Lenguajes
 
 Este repositorio sirve a los alumnos para que colaboren en sus ramas con las diferentes opciones de la materia Seminario de Lenguajes con cualquiera que elijan:
-- .net
+- .Net
 - Android
 - PHP
 - C
