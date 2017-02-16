@@ -1,43 +1,43 @@
 # C
 
-[![N|Solid](https://github.com/laFuenteUNLP/seminario-de-lenguajes/blob/master/c/img/c-logo.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://github.com/laFuenteUNLP/seminario-de-lenguajes/blob/master/c/img/c-logo.png)](https://github.com/laFuenteUNLP/seminario-de-lenguajes/blob/master/c/img/c-logo.png)
 
-## Qué es Python
+## Qué es C
 
-Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en una sintaxis que favorezca un código legible.
-Se trata de un lenguaje de programación multiparadigma, ya que soporta orientación a objetos, programación imperativa y, en menor medida, programación funcional. Es un lenguaje interpretado, usa tipado dinámico y es multiplataforma.
+C es un lenguaje de programación de propósito general que ofrece economía sintáctica, control de flujo y estructuras sencillas y un buen conjunto de operadores.
 
-Es administrado por la Python Software Foundation. Posee una licencia de código abierto, denominada Python Software Foundation License, que es compatible con la Licencia pública general de GNU a partir de la versión 2.1.1, e incompatible en ciertas versiones anteriores.
+C es apreciado por la eficiencia del código que produce y es el lenguaje de programación más popular para crear software de sistemas, aunque también se utiliza para crear aplicaciones.
 
-## Para qué se puede usar Python
+Se trata de un lenguaje de tipos de datos estáticos, débilmente tipificado, de medio nivel, ya que dispone de las estructuras típicas de los lenguajes de alto nivel pero, a su vez, dispone de construcciones del lenguaje que permiten un control a muy bajo nivel. Los compiladores suelen ofrecer extensiones al lenguaje que posibilitan mezclar código en ensamblador con código C o acceder directamente a memoria o dispositivos periféricos.
 
-- Web Programming: [Django](https://www.djangoproject.com/), [Pylons Project](http://pylonsproject.org/), [Bottle](http://bottlepy.org/docs/dev/), [Tornado](http://www.tornadoweb.org/en/stable/), [Flask](http://flask.pocoo.org/), [web2py](http://www.web2py.com/)
+## Donde y  para qué se puede usar C
 
-- GUI Development: [wxPython](https://www.wxpython.org/), [tkInter](https://wiki.python.org/moin/TkInter), [PyGtk](http://www.pygtk.org/), [PyQt](https://riverbankcomputing.com/software/pyqt/intro)
+- Sistemas Operativos: *hecho principalmente para la fluidez de programación en sistemas UNIX. Se usa también para el desarrollo de otros sistemas operativos como Windows o GNU/Linux. Igualmente para aplicaciones de escritorio como GIMP, cuyo principal lenguaje de programación es C.*
 
-- Scientific and Numeric: [SciPy](http://www.scipy.org/), [Pandas](http://pandas.pydata.org/), [IPython](http://ipython.org/)
+-  Aplicaciones Científicas: *para experimentos informáticos, físicos, químicos, matemáticos, entre otros, parte de ellos conocidos como modelos y simuladores.*
 
-- Software Development: [Buildbot](http://buildbot.net/), [Trac](https://trac.edgewall.org/), [Roundup](http://roundup.sourceforge.net/)
+- Aplicaciones Industriales: *industria robótica, cibernética, sistemas de información y base de datos para la industria petrolera y petroquímica. Predominan también todo lo que se refiere a simulación de máquinas de manufactura.*
 
-- System Administration: [Ansible](https://www.ansible.com/), [Salt](https://saltstack.com/), [OpenStack](https://www.openstack.org/)
+-  Simuladores de vuelo: *es la más delicada, ya que se tienen que usar demasiados recursos tanto de hardware como de software para desarrollar aplicaciones que permitan simular el vuelo real de una aeronave*
 
-# Dónde se usa Python
+- Biblioteca: *Las bibliotecas más comunes son la biblioteca estándar de C y la biblioteca del estándar ANSI C, la cual provee las especificaciones de los estándares que son ampliamente compartidas entre bibliotecas. La biblioteca ANSI C estándar, incluye funciones para la entrada y salida de archivos, alojamiento de memoria y operaciones con datos comunes: funciones matemáticas, funciones de manejo de cadenas de texto y funciones de hora y fecha. Otras bibliotecas C son aquellas utilizadas para desarrollar sistemas Unix, las cuales proveen interfaces hacia el núcleo. Estas funciones son detalladas en varios estándares tales como POSIX y el Single UNIX Specification. Ya que muchos programas han sido escritos en el lenguaje C existe una gran variedad de bibliotecas disponibles. Muchas bibliotecas son escritas en C debido a que C genera código objeto rápido; los programadores luego generan interfaces a la biblioteca para que las rutinas puedan ser utilizadas desde lenguajes de mayor nivel, tales como Java, Perl y [Python](https://github.com/laFuenteUNLP/seminario-de-lenguajes/blob/master/python/python.md)*
 
-Google utiliza Python para muchas tareas, incluyendo los backends de aplicaciones web como Google Groups, Gmail y Google Maps, así como de algunas de sus partes internas de motores de búsqueda.
-La NASA está usando Python para implementar un sistema CAD / CAE repositorio / PDM y gestión de modelos, la integración, y el sistema de transformación que será el núcleo de la infraestructura para su próxima generación de entorno de ingeniería colaborativa. También es el lenguaje de desarrollo para OpenMDAO, un marco desarrollado por la NASA para la resolución de problemas de optimización de diseño multidisciplinarios.
-Reddit fue originalmente escrito en Common Lisp, pero fue reescrito en Python en 2005.
-Yahoo! Grupos utiliza Python "para mantener sus grupos de discusión".
-YouTube utiliza Python "para producir características mantenibles en un tiempo récord, con un mínimo de desarrolladores".
+- Vídeos Juegos: *muchos juegos clásicos (OTHELLO, AHORCADO, BUSCAMINAS, BATALLA NAVAL, CANION, etc) están hechos en éste lenguaje. Si bien hoy día existen lenguajes mucho más modernos para el desarrollo de vídeos juegos, gran parte de las librerías utilizadas por éstos, están en lenguaje C*.
+
+- Multimedia: *se puede encontrar código C en grandes desarrollos de animaciones, modelados y escenas en 3D en películas y otras aplicaciones multimedia*
+
+- Sistemas embebidos: *C es el lenguaje común para programar sistemas embebidos. El código ligero que un compilador C genera, combinado con la capacidad de acceso a capas del software cercanas al hardware son la causa de su popularidad en estas aplicaciones. Una característica donde C demuestra comodidad de uso particularmente valiosa en sistemas embebidos es la manipulación de bits* 
 
 ### Instalación
 
 En linux:
-La mayoría de las dsitribuciones de Linux ya viene con Python instalado en su última versión.
+Todas las distribuciones de Linux vienen por defecto con el compilador *gcc*.
 Abrir una consola y escribir:
 ```sh
-$ sudo apt-get install python
+$ gcc -Wall codigo-fuente.c -o ejecutable.exe
 ```
-En Windows descargar de la [página oficial](https://www.python.org/downloads/) e instalar.
+###### Nota: *más adelante veremos para que sirven los parametros -Wall, -o*
+En Windows descargar de la [http://www.tuxylinux.com/instalar-el-compilador-de-c-gcc-en-windows/) e instalar.
 
 
 ## Micro Tutorial de Python
