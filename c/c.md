@@ -1,6 +1,6 @@
-# Python
+# C
 
-[![N|Solid](https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://github.com/laFuenteUNLP/seminario-de-lenguajes/blob/master/c/img/c-logo.png)](https://nodesource.com/products/nsolid)
 
 ## Qué es Python
 
