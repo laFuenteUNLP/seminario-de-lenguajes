@@ -4,7 +4,7 @@
 
 ![N|Solid](https://6aeea8a9-a-62cb3a1a-s-sites.googlegroups.com/site/archelangelo/teaching/tipsonwritingvpythonsimulatingprograms/solar-system.jpg?attachauth=ANoY7crT82eCMtZEbdhrjRF_UNQKNHmybkWAmxCP5kKYnP0yWa_aTlE0D18FX94OZh2OkSncr3zsk8lbYet9pklNjxG-f-evjETSxhgDw0Mz2CYUldmxChHYxUEKSGghaxujFJ3PI_4491lL-Xh2VvnjlcHLZ9C7CCLmzIxvKp4exz4heaGnCyRbJOvvCRlNFkqChxGlZsdL7acr3pRvkPA_aNf2VgW6_b02ZZtSsG4W3x6zRCz6Ubl9S07xziN2SBo4GP3q1Of2I_RhwuGR06s3Te_wUhzN_w%3D%3D&attredirects=0)
 
-VPython hace sencilla crear vistas y animaciones 3D navegables, incluso para aquellos con limitada experiencia en programación. Debido a que está basado en Python, puede además ofrecer mucho para programadores experimentados e investigadores.
+VPython hace sencillo crear vistas y animaciones 3D navegables, incluso para aquellos con limitada experiencia en programación. Debido a que está basado en Python, puede además ofrecer mucho para programadores experimentados e investigadores.
 
 ## Guía de instalación y uso de VPython
 ### Windows: http://vpython.org/contents/download_windows.html
