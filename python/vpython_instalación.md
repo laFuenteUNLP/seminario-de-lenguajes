@@ -24,15 +24,24 @@ Fuente descarga Wine: http://www.kacharreando.com/ubuntu/wine-ubuntu-16-04/
 
 #### Descargar Python, librería y VPython
 Para Linux 32-bit:
-   Descargar [32-bit Python-2.7.9](http://www.python.org/ftp/python/2.7.9/python-2.7.9.msi) de python.org
-   Descargar la librería para Windows 32-bit [python27.dll](http://vpython.org/contents/download/dll32/python27.dll)
-   Descargar [VPython-Win-32-Py2.7-6.11](http://sourceforge.net/projects/vpythonwx/files/6.11-release/VPython-Win-32-Py2.7-6.11.exe/download)
-	  Esta version de VPython requiere Python 2.7.x de python.org.
+
+   -Descargar [32-bit Python-2.7.9](http://www.python.org/ftp/python/2.7.9/python-2.7.9.msi) de python.org
+   
+   -Descargar la librería para Windows 32-bit [python27.dll](http://vpython.org/contents/download/dll32/python27.dll)
+   
+   -Descargar [VPython-Win-32-Py2.7-6.11](http://sourceforge.net/projects/vpythonwx/files/6.11-release/VPython-Win-32-Py2.7-6.11.exe/download)
+   
+   	Esta version de VPython requiere Python 2.7.x de python.org.
+	
 Para Linux 64-bit:
-   Descargar [64-bit Python-2.7.9](http://python.org/ftp/python/2.7.9/python-2.7.9.amd64.msi) from python.org
-   Descargar la librería de Windows 64-bit [python27.dll](http://vpython.org/contents/download/dll64/python27.dll)
-   Descargar [VPython-Win-64-Py2.7-6.11](http://sourceforge.net/projects/vpythonwx/files/6.11-release/VPython-Win-64-Py2.7-6.11.exe/download)
-	  Esta version de VPython requiere Python 2.7.x de python.org.
+
+   -Descargar [64-bit Python-2.7.9](http://python.org/ftp/python/2.7.9/python-2.7.9.amd64.msi) from python.org
+   
+   -Descargar la librería de Windows 64-bit [python27.dll](http://vpython.org/contents/download/dll64/python27.dll)
+   
+   -Descargar [VPython-Win-64-Py2.7-6.11](http://sourceforge.net/projects/vpythonwx/files/6.11-release/VPython-Win-64-Py2.7-6.11.exe/download)
+
+	Esta version de VPython requiere Python 2.7.x de python.org.
 
 Cómo saber si mi arquitectura de Linux es 32 o 64 bit?
 Ejecutar en consola:
