@@ -31,7 +31,7 @@ Para Linux 32-bit:
    
    -Descargar [VPython-Win-32-Py2.7-6.11](http://sourceforge.net/projects/vpythonwx/files/6.11-release/VPython-Win-32-Py2.7-6.11.exe/download)
    
-   	Esta version de VPython requiere Python 2.7.x de python.org.
+	Esta version de VPython requiere Python 2.7.x de python.org.
 	
 Para Linux 64-bit:
 
