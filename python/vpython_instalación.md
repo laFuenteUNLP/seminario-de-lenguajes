@@ -1,6 +1,6 @@
-# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  VPython
+# VPython
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Programación 3D para Mortales Ordinarios
+### Programación 3D para Mortales Ordinarios
 
 ![N|Solid](https://6aeea8a9-a-62cb3a1a-s-sites.googlegroups.com/site/archelangelo/teaching/tipsonwritingvpythonsimulatingprograms/solar-system.jpg?attachauth=ANoY7crT82eCMtZEbdhrjRF_UNQKNHmybkWAmxCP5kKYnP0yWa_aTlE0D18FX94OZh2OkSncr3zsk8lbYet9pklNjxG-f-evjETSxhgDw0Mz2CYUldmxChHYxUEKSGghaxujFJ3PI_4491lL-Xh2VvnjlcHLZ9C7CCLmzIxvKp4exz4heaGnCyRbJOvvCRlNFkqChxGlZsdL7acr3pRvkPA_aNf2VgW6_b02ZZtSsG4W3x6zRCz6Ubl9S07xziN2SBo4GP3q1Of2I_RhwuGR06s3Te_wUhzN_w%3D%3D&attredirects=0)
 
